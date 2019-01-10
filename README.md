@@ -33,5 +33,5 @@ Then run the [`Tennis.ipynb`](https://github.com/doctorcorral/DRLND-p3-collabcom
 
 Once trained the model weights will be saved in the same directory in the files `checkpoint1_actor0.pth`, `checkpoint1_actor1.pth` and `checkpoint1_critic.pth`.
 
-The model weights are used by the [`Trained Agent.ipynb` ](https://github.com/doctorcorral/DRLND-p3-collabcomp/blob/master/test_agent.ipynb) notebook against the simulator. 
+The model weights are used by the [`test_agent.ipynb` ](https://github.com/doctorcorral/DRLND-p3-collabcomp/blob/master/test_agent.ipynb) notebook against the simulator. 
 
